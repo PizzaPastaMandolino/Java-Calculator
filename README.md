@@ -4,6 +4,9 @@ A simple java calculator made for a school project using Swing
 ## Thanks you!!
 If you like the project fill free to leave a ⭐
 
+###Screenshot
+![sample](https://raw.githubusercontent.com/PizzaPastaMandolino/Java-Calculator/main/img/screenshot.png?token=GHSAT0AAAAAAB5NTE64PHK7LVDALL4ENT74Y6FXWJA)
+
 ### Download and Usage
 
 1) Download via [Realeses](https://github.com/PizzaPastaMandolino/Java-Calculator/releases/tag/java)
