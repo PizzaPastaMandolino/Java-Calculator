@@ -6,8 +6,6 @@ If you like the project fill free to leave a ⭐
 
 ### Download and Usage
 
-```
-$ Download via [Realeses](https://github.com/PizzaPastaMandolino/Java-Calculator/releases/tag/java)
-$ Choose 'release.rar' or 'Source Code (.zip)' if you want to modify and customize it
-$ In 'release.rar' you will have 2 option to run or calculator.jar, but if you have problem try calculator.exe
-```
+1) Download via [Realeses](https://github.com/PizzaPastaMandolino/Java-Calculator/releases/tag/java)
+2) Choose 'release.rar' or 'Source Code (.zip)' if you want to modify and customize it
+3) In 'release.rar' you will have 2 option to run or calculator.jar, but if you have problem try calculator.exe
