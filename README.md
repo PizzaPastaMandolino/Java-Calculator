@@ -5,7 +5,7 @@ A simple java calculator made for a school project using Swing
 If you like the project feel free to leave a ⭐, i will really appreciate that!
 
 ### Screenshot
-![sample](https://raw.githubusercontent.com/PizzaPastaMandolino/Java-Calculator/main/img/screenshot.png?token=GHSAT0AAAAAAB5NTE64PHK7LVDALL4ENT74Y6FXWJA)
+![sample](https://raw.githubusercontent.com/PizzaPastaMandolino/Java-Calculator/main/img/screenshot.png?token=GHSAT0AAAAAAB5NTE64YPM3PJ7P6D75TIQEY6FX75Q)
 
 ### Requirments ⚙️
 - Java version 1.4.0 or higher
