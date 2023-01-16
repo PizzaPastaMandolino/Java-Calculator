@@ -1,7 +1,7 @@
 # Java Calculator
 A simple java calculator made for a school project using Swing
 
-### Thanks you!!
+## Thanks you!!
 If you like the project fill free to leave a ⭐
 
 ### Download and Usage
